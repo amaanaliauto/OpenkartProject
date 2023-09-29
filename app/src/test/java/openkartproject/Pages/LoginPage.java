@@ -1,4 +1,4 @@
 package app.src.test.java.openkartproject.Pages;
 
-public class HomePage {
+public class LoginPage {
 }
